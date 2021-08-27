@@ -1,0 +1,93 @@
+body
+{ background-color: #182124 }
+h1{
+	font-family: stranger;
+	size:30px;
+	color:#D30000;
+}
+p{
+
+	color: white
+
+}
+#header
+{
+	
+height: 100px;
+background-color: #323946;
+position: absolute;
+top: 0 ;
+right: 0 ;
+left: 0;
+border-bottom: solid 4px;
+border-color: black;
+border-top:  solid 4px;
+
+}
+.headlink{
+	top: 30px;
+	padding: 40px ;
+    text-decoration: none;
+	color:#D30000;
+	font-size:30px;
+	position: relative;
+	font-family: stranger;
+}
+.headlink:hover {
+
+	opacity: 0.8;
+}
+.in {
+
+
+}
+#ads{
+	border: solid 1px red ;
+}
+
+
+#footer{
+
+	background-color: #323946;
+	border-top: solid 4px black;
+	height: 188px;
+	width: 100%;
+}
+
+.fot {
+font-family: stranger;
+color: red;
+display: inline-block;
+padding-left: 140px;
+padding-top: 80px;
+
+
+}
+
+.fot:hover {opacity: 0.8}
+
+ 
+ table , td , th{
+
+ 	border-collapse: collapse;
+ color: white;
+ border: 2px solid #D30000;
+  padding: 8px;
+ }
+table tr:nth-child(even){background-color: #920f00;}
+
+table tr:hover {opacity: 0.5;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
